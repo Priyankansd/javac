@@ -1,0 +1,134 @@
+[
+
+{
+
+	"metadata":
+{
+		"make":"Audi",
+"model":"A7","vin":"11AQHY64352JITEA98K","colour":"black",
+		"Notes":"Scratches on the front side of the car"
+		},
+	"perdayrent":{
+		"Price":140,
+		"Discount":15
+		},
+		"metrics":{
+			"yoymaintenancecost":2190.76,
+			"depreciation":2256.43,
+			"rentalcount":{
+				"lastweek":4,
+				"yeartodate":2021
+				}
+}
+},
+{
+	
+	"metadata":{
+		"make":"Audi",
+		"model":"Q5",
+		"vin":"09AGHY64352JITEG98K",
+		"colour":"white",
+		"Notes":"Break on the left window of the car"
+		},
+	"perdayrent":{
+		"Price":180,
+		"Discount":20
+		},
+		"metrics":{
+			"yoymaintenancecost":1582.45,
+			"depreciation":1826.56,
+			"rentalcount":{
+				"lastweek":6,
+				"yeartodate":2025
+				}
+	}
+ },
+{
+	
+	"metadata":{
+		"make":"Tesla",
+		"model":"roadster",
+		"vin":"12RSHY64352JITEG98L",
+		"colour":"blue",
+		"Notes":"Scratches on the Back side left door of the car"
+		},
+	"perdayrent":{
+		"Price":200,
+		"Discount":25
+		},
+		"metrics":{
+			"yoymaintenancecost":1254.46,
+			"depreciation":1556.65,
+			"rentalcount":{
+				"lastweek":5,
+				"yeartodate":2032
+				}
+	}
+ },
+{
+
+	"metadata":{
+		"make":"Tesla",
+		"model":"s",
+		"vin":"09AGHY64352JITEG98K",
+		"colour":"black",
+		"Notes":"Scratches on the front side of the car"
+		},
+	"perdayrent":{
+		"Price":252,
+		"Discount":32
+		},
+		"metrics":{
+			"yoymaintenancecost":2698.65,
+			"depreciation":2756.45,
+			"rentalcount":{
+				"lastweek":3,
+				"yeartodate":2025
+				}
+	}
+ },
+{
+
+	"metadata":{
+		"make":"Tesla",
+		"model":"x",
+		"vin":"09AGHY64352JITEG98K",
+		"colour":"black",
+		"Notes":"Scratches on the Back side door of the car"
+		},
+	"perdayrent":{
+		"Price":162,
+		"Discount":18
+		},
+		"metrics":{
+			"yoymaintenancecost":2152.76,
+			"depreciation":2156.32,
+			"rentalcount":{
+				"lastweek":1,
+				"yeartodate":2019
+				}
+	}
+ },
+ {
+	
+	"metadata":{
+		"make":"Tesla",
+		"model":"3",
+		"vin":"09AGHY64352JITEG98K",
+		"colour":"black",
+		"Notes":"Scratches on the front side of the car"
+		},
+	"perdayrent":{
+		"Price":140,
+		"Discount":15
+		},
+		"metrics":{
+			"yoymaintenancecost":1190.56,
+			"depreciation":2253.56,
+			"rentalcount":{
+				"lastweek":6,
+				"yeartodate":2026
+				}
+	}
+ }
+]
